@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Papyrus';
+    font-size: 48px;
+}
+
+#shifu {
+    float: right;
+    width: 50%;
+}
+
+#scroll {
+width: 35%;
+}
